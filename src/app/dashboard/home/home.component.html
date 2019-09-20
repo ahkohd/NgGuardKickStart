@@ -1,0 +1,6 @@
+<h1>👽🙀 Dashboard Home</h1>
+<ul>
+  <li *ngFor="let product of [{id: 1}, {id: 2}]">
+    <a [routerLink]="['/dashboard/product',product.id]">View Product {{ product.id }}</a>
+  </li>
+</ul>
