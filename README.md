@@ -3,10 +3,10 @@ A simple boilerplate to demo Angular's Router, Guards.
 I created this angular boilerplate to kick start my angular projects.
 
 ## ✨ Features
-- Angular router is set up
-- Route guards are set up
-- Rolebased guards are set up (Admin & User)
-- Simple example of Route parameter
+- Angular Router setup
+- Route Guards setup
+- Role based Guards (Admin & User roles)
+- A simple example of accessing Route Parameter
 
 # 🛣 Routes
 - `/` redirects to `/home`
